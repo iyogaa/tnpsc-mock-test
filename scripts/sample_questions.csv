@@ -1,0 +1,21 @@
+subject,question_text,option_a,option_b,option_c,option_d,correct_option,explanation,difficulty
+Tamil,தமிழ் மொழியில் உள்ள உயிர் எழுத்துக்களின் எண்ணிக்கை?,10,12,16,18,B,தமிழில் 12 உயிர் எழுத்துக்கள் உள்ளன,easy
+Tamil,திருக்குறளை இயற்றியவர் யார்?,இளங்கோவடிகள்,திருவள்ளுவர்,கம்பர்,அவ்வையார்,B,திருக்குறளை திருவள்ளுவர் இயற்றினார்,easy
+Tamil,சிலப்பதிகாரம் எத்தனை காண்டங்களை கொண்டது?,3,4,5,6,A,சிலப்பதிகாரம் மூன்று காண்டங்களை கொண்டது,medium
+Tamil,தமிழ் இலக்கியத்தின் தொன்மையான நூல் எது?,கம்பராமாயணம்,சிலப்பதிகாரம்,தொல்காப்பியம்,திருக்குறள்,C,தொல்காப்பியம் தமிழ் இலக்கணத்தின் தொன்மையான நூல்,medium
+Tamil,மணிமேகலை நூலை இயற்றியவர் யார்?,திருவள்ளுவர்,இளங்கோவடிகள்,சீத்தலை சாத்தனார்,கம்பர்,C,மணிமேகலை சீத்தலை சாத்தனாரால் இயற்றப்பட்டது,medium
+General Studies,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,B,Mars appears red due to iron oxide on its surface,easy
+General Studies,Who is known as the Father of the Nation of India?,Nehru,Gandhi,Patel,Ambedkar,B,Mahatma Gandhi is called the Father of the Nation,easy
+General Studies,The Indian Constitution came into effect on?,15 Aug 1947,26 Jan 1950,26 Nov 1949,2 Oct 1948,B,The Constitution was enacted on 26 January 1950,easy
+General Studies,Which is the longest river in India?,Godavari,Ganga,Yamuna,Krishna,B,Ganga is the longest river flowing 2525 km,medium
+General Studies,What is the capital of Tamil Nadu?,Madurai,Coimbatore,Chennai,Trichy,C,Chennai is the capital and largest city of Tamil Nadu,easy
+General Studies,The Palk Strait separates India from?,Bangladesh,Pakistan,Sri Lanka,Myanmar,C,Palk Strait separates Tamil Nadu from Sri Lanka,medium
+General Studies,Which Article of the Constitution deals with Right to Equality?,Article 14,Article 19,Article 21,Article 32,A,Article 14 guarantees equality before law,medium
+General Studies,Who was the first President of India?,B.R. Ambedkar,Rajendra Prasad,S. Radhakrishnan,Nehru,B,Dr. Rajendra Prasad was the first President of India,easy
+General Studies,What does GDP stand for?,Gross Development Product,Gross Domestic Product,General Domestic Product,Global Development Policy,B,GDP is Gross Domestic Product measuring total economic output,easy
+General Studies,The chemical formula of water is?,H2O2,HO,H2O,H3O,C,Water has the chemical formula H2O,easy
+Aptitude & Mental Ability,What comes next: 2 4 8 16 ?,24,28,32,36,C,The pattern is doubling: 16 × 2 = 32,easy
+Aptitude & Mental Ability,If A=1 B=2 C=3 then CAB=?,312,123,231,321,A,C=3 A=1 B=2 so CAB = 312,medium
+Aptitude & Mental Ability,A train 150m long passes a pole in 15 seconds. Speed in km/h?,30,36,45,54,B,Speed = 150/15 = 10 m/s = 36 km/h,medium
+Aptitude & Mental Ability,Find the odd one out: 2 3 5 7 9 11,2,5,7,9,D,9 = 3×3 is not a prime number unlike the others,medium
+Aptitude & Mental Ability,If 6 workers complete a job in 8 days how many days for 4 workers?,10,12,14,16,B,6×8 = 48 worker-days. 48/4 = 12 days,medium
